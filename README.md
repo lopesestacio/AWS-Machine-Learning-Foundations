@@ -12,7 +12,7 @@ Destinado ao curso AWS Machine Learning Fundations da Udacity.
 4 | Software Engineering Practices, part 1 |  &#9745;
 5 | Software Engineering Practices, part 2 |  &#9745;
 6 | Object-Oriented Programming |  &#9745;
-7 | AWS ML Foundations Assessment | &#9744;
+7 | AWS ML Foundations Assessment | &#9745;
 
 ## Status Definitions
  &#9744; Significa que o capítulo específico ainda não foi iniciado 👍 <br>
